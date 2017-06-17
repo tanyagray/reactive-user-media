@@ -8,6 +8,7 @@ Install with npm:
 
 ```
 npm i reactive-user-media --save
+```
 
 
 ## Basic Usage
