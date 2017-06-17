@@ -2,6 +2,14 @@
 
 Provides a reactive API for working with media devices such as microphone, camera and speakers.
 
+## Installation
+
+Install with npm:
+
+```
+npm i reactive-user-media --save
+
+
 ## Basic Usage
 
 Create a device manager for each device type you want to use.
