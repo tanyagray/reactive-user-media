@@ -1,0 +1,34 @@
+{
+  "name": "reactive-user-media",
+  "version": "1.0.0",
+  "description": "Provides a reactive API for getting and selecting browser user media devices.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanyagray/reactive-user-media.git"
+  },
+  "keywords": [
+    "getusermedia",
+    "usermedia",
+    "media",
+    "device",
+    "selection",
+    "rxjs",
+    "observable"
+  ],
+  "author": "Tanya Gray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanyagray/reactive-user-media/issues"
+  },
+  "homepage": "https://github.com/tanyagray/reactive-user-media#readme",
+  "dependencies": {
+    "rxjs": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
+}
